@@ -1,0 +1,9 @@
+{
+  "files.autoSave": "onWindowChange",
+  "emmet.showSuggestionsAsSnippets": false,
+  "emmet.useInlineCompletions": false,
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
